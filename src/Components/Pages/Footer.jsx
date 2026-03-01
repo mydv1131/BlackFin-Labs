@@ -85,18 +85,18 @@ const Footer = () => {
                     <ul className="space-y-2 text-sm text-black">
                         <li>Unit No.12, Bhutani Cyber park, 4th Floor Tower Industrial Phase-2, C-Block, Goutam Budh, Nagar Noida (UP) pin-201301
                         </li>
-                        <li>📞 +91 98765 43210</li>
+                        <li>📞 +91 70004 17764</li>
                         <li>✉️ blackfinlabspvtltd@gmail.com</li>
                         <li className="flex items-center gap-2">
                             <p className="text-black font-semibold">Follow us on</p>
                             <div className="text-lg flex gap-2 items-center justify-center font-semibold bg-gradient-to-r to-[#adb0a3] from-[#3b3f2f] bg-clip-text text-transparent">
                                 {/* instagram */}
                                 <button
-                                    onClick={() => window.open("https://www.instagram.com/yash_pharma/", "_blank")}
+                                    onClick={() => window.open("#", "_blank")}
                                 ><img src={insta} alt="" className="w-8 h-8" /></button>
                                 {/* facebook */}
                                 <button
-                                    onClick={() => window.open("https://www.facebook.com/yashpharma/", "_blank")}
+                                    onClick={() => window.open("#", "_blank")}
                                 ><img src={fb} alt="" className="w-8 h-8" /></button>
 
                             </div>
