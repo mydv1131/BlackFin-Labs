@@ -56,7 +56,7 @@ const Contact = () => {
 
                     {/* Call */}
                     <a
-                        href="tel:+917415830510"
+                        href="tel:+9170004 17764"
                         className="
                             flex items-center gap-3
                             px-6 py-3
