@@ -108,7 +108,7 @@ const Footer = () => {
 
             {/* Bottom Bar */}
             <div className="border-t border-white/20 text-center py-4 text-sm text-black">
-                © {new Date().getFullYear()} MediCare Pharmacy. All rights reserved.
+                © {new Date().getFullYear()} BlackFin Labs Pvt. ltd.. All rights reserved.
             </div>
 
         </footer>
