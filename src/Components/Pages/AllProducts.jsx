@@ -241,12 +241,12 @@ const AllProducts = () => {
                             </ul>
                         </div>
 
-                        {/* <button
+                        {<button
                             onClick={() => setShowEnquiryForm(true)}
                             className="w-full bg-[#0a1a4d] text-white py-3 rounded-xl hover:bg-[#142c7a] transition"
                         >
                             Enquire Now
-                        </button> */}
+                        </button> }
                     </div>
                 </div>
             )}
