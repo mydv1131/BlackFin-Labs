@@ -227,7 +227,7 @@ const Products = () => {
                                                     View Details
                                                 </button>
 
-                                                {/* <button
+                                                {<button
                                                     onClick={() => {
                                                         setSelectedProduct(med);
                                                         setShowEnquiryForm(true);
@@ -235,7 +235,7 @@ const Products = () => {
                                                     className="w-1/2 bg-[#0a1a4d] text-white py-2 rounded-lg text-sm"
                                                 >
                                                     Enquiry
-                                                </button> */}
+                                                </button>}
                                             </div>
                                         </div>
                                     </div>
@@ -282,12 +282,12 @@ const Products = () => {
                                     ))}
                                 </ul>
 
-                                {/* <button
+                                {<button
                                     onClick={() => setShowEnquiryForm(true)}
                                     className="w-full bg-[#0a1a4d] text-white py-3 rounded-xl"
                                 >
                                     Enquiry Now
-                                </button> */}
+                                </button> }
                             </div>
                         </div>
                     </div>
